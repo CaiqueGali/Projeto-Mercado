@@ -1,7 +1,8 @@
 # Projeto-Mercado
 
-# Este projeto em PBIx foi realizado para um serviço de Freelance e apresenta os dados com DataViz específico criado para a marca e seu ambiente digital próprio, com redirecionamento para o site e demais funcionalidades 
+# Este projeto em PBIx foi realizado para um serviço de autônomo e apresenta os dados com DataViz específico criado para a marca e seu ambiente digital próprio, com redirecionamento para o site e demais funcionalidades 
 O desenvolvimento do PBI foi feito em parceria com um grupo de inovação e Marketing, onde o projeto do Schema realizado foi pensado para o segmento de Mercados e Supermercados nacionais. Alguns dos dados apresentam inconstâncias devido a alteração no DB para pausa de atualização dos dados e segurança das informações divulgadas.
+
 
 ![imagem_2023-08-27_184905462](https://github.com/CaiqueGali/Projeto-Mercado/assets/115173387/6bbcc78c-1e9b-414c-bd22-7d669a5d0043)
 
